@@ -1,3 +1,4 @@
+SHELL=/usr/bin/bash -o pipefail
 WORKING_DIR = ./
 
 default: test
